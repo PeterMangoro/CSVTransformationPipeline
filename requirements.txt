@@ -1,0 +1,12 @@
+# Python 3.8+ is required
+# This project uses only standard library modules:
+# - csv
+# - json
+# - urllib.request
+# - datetime
+# - logging
+# - pathlib
+# - typing
+# - collections
+
+# No external dependencies required
