@@ -37,6 +37,7 @@
 - **Goal**: Implement a clear, testable Python script/module that performs the full transformation from inputs to outputs.
 - **Proposed structure**:
 - Create a Python package directory `backend/` which will transform data and load results in `output/`
+- Refactor code and write unit tests
 
 ## Phase 4: QA, Validation & Edge-Case Review
 

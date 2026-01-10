@@ -9,4 +9,5 @@
 # - typing
 # - collections
 
-# No external dependencies required
+# Testing dependencies
+pytest>=7.0.0

@@ -70,7 +70,7 @@ def map_title(salutation: Optional[str]) -> str:
     if not salutation or not salutation.strip():
         return ""
     
-    key = salutation.strip().lower()
+    key = salutation.strip().lower().replace('.', '')
     return TITLE_MAPPING.get(key, "")
 
 
