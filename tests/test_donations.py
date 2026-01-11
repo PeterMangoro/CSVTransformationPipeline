@@ -224,9 +224,9 @@ class TestGetFallbackCreatedDate:
             ]
         }
         result = get_fallback_created_date('12345', donations_by_patron)
-        # Should be 1 day before earliest donation
-        assert '2023-01-14' in result
-        assert result.startswith('2023-01-14')
+        # Should be the earliest donation date
+        assert '2023-01-15' in result
+        assert result.startswith('2023-01-15')
     
     def test_no_donations_uses_current_date(self):
         result = get_fallback_created_date('12345', {})
@@ -241,4 +241,4 @@ class TestGetFallbackCreatedDate:
             ]
         }
         result = get_fallback_created_date('12345', donations_by_patron)
-        assert '2023-03-09' in result  # 1 day before 2023-03-10
+        assert '2023-03-10' in result  # Earliest non-refunded donation date

@@ -9,8 +9,8 @@ INPUT_DONATION_HISTORY_FILE = BASE_DIR / "InputDonationHistory.csv"
 OUTPUT_DIR = BASE_DIR / "output"
 OUTPUT_DIR.mkdir(exist_ok=True)
 
-OUTPUT_CONSTITUENTS_FILE = OUTPUT_DIR / "OutputFormatCueBoxConstituents.csv"
-OUTPUT_TAGS_FILE = OUTPUT_DIR / "OutputFormatCueBoxTags.csv"
+OUTPUT_CONSTITUENTS_FILE = OUTPUT_DIR / "FinalOutputFormatCueBoxConstituents.csv"
+OUTPUT_TAGS_FILE = OUTPUT_DIR / "FinalOutputFormatCueBoxTags.csv"
 
 TAG_API_URL = "https://6719768f7fc4c5ff8f4d84f1.mockapi.io/api/v1/tags"
 TAG_API_TIMEOUT = 10

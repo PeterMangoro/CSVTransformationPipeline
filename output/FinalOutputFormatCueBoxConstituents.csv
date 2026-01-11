@@ -50,7 +50,7 @@ CB Constituent ID,CB Constituent Type,CB First Name,CB Last Name,CB Company Name
 1102,Person,Michael,Munoz,,2019-06-17T00:00:00,warrendaniel@gmail.com,xwilson@olsen-morgan.org,,"Summer 2016, Board Member, Major Donor",Marital Status: Unknown,$5350.00,2023-11-30,$100.00
 3203,Person,Joshua,Gonzales,,2022-11-10T00:00:00,katiecarr@daniels-olsen.com,,,"Pitch Perfect, Board Member, Summer 2016, Major Donor",Job Title: Business Analyst; Marital Status: Single,$11000.00,2020-09-25,$5000.00
 6522,Person,Brian,Schmidt,,2019-10-01T00:00:00,andrea62@gmail.com,gpayne@hotmail.com,,Student Scholar,Marital Status: Unknown,$1100.00,2023-03-13,$500.00
-4526,Person,Kaylee,Wagner,,2019-03-20T00:00:00,reeveslinda@underwood.com,,Dr.,"Student Scholar, Major Donor, Pitch Perfect, Summer 2016",Marital Status: Unknown,$400.00,2024-06-14,$100.00
+4526,Person,Kaylee,Wagner,,2019-03-21T00:00:00,reeveslinda@underwood.com,,Dr.,"Student Scholar, Major Donor, Pitch Perfect, Summer 2016",Marital Status: Unknown,$400.00,2024-06-14,$100.00
 3973,Person,Kyle,Parsons,,2021-09-01T00:00:00,kaylaprice@york-vance.com,,Dr.,"Pitch Perfect, Student Scholar, Summer 2016",Marital Status: Married,$5150.00,2024-01-28,$50.00
 9734,Person,Yvonne,Russell,,2021-02-25T00:00:00,victoria10@gmail.com,hansonchristine@hotmail.com,,"Pitch Perfect, Board Member, Summer 2016",Marital Status: Unknown,$15500.00,2022-10-29,$500.00
 9153,Person,Erica,House,,2015-02-03T00:00:00,deantravis@russo-nelson.org,burnsamber@luna-solis.net,Mrs.,"Board Member, Major Donor 2022, Student Scholar",Marital Status: Married,$100.00,2019-12-28,$100.00
@@ -67,7 +67,7 @@ CB Constituent ID,CB Constituent Type,CB First Name,CB Last Name,CB Company Name
 4615,Person,Laura,Jackson,,2022-07-22T00:00:00,,,,,Marital Status: Single,$10250.00,2023-10-29,$5000.00
 9139,Person,Nicole,Chase,,2022-09-28T00:00:00,victoria52@galvan.com,adrian20@chang.com,Ms.,"Major Donor, Student Scholar, Summer 2016",Marital Status: Married,$750.00,2021-04-09,$500.00
 1854,Person,Ricky,David,,2020-08-03T00:00:00,mayertammy@collins-vasquez.org,stephaniewu@gmail.com,Dr.,"Summer 2016, Pitch Perfect, Student Scholar",Marital Status: Single,$15050.00,2023-02-02,$5000.00
-2173,Person,Thomas,Meyers,,2018-07-10T00:00:00,lance98@hotmail.com,,Mr.,"Major Donor, Pitch Perfect",Job Title: Administrative Assistant; Marital Status: Unknown,$11100.00,2022-12-11,$10000.00
+2173,Person,Thomas,Meyers,,2018-07-11T00:00:00,lance98@hotmail.com,,Mr.,"Major Donor, Pitch Perfect",Job Title: Administrative Assistant; Marital Status: Unknown,$11100.00,2022-12-11,$10000.00
 2936,Person,Natalie,Smith,,2016-11-10T00:00:00,lawrence72@olson.com,tsuarez@ford.net,Dr.,"Major Donor, Pitch Perfect",Marital Status: Unknown,$11100.00,2023-03-04,$100.00
 3140,Person,Claudia,Chambers,,2023-09-11T00:00:00,bday@odom-archer.com,,,Pitch Perfect,Marital Status: Single,$5000.00,2023-06-10,$3000.00
 5967,Company,,,Paul-Kim,2023-12-30T00:00:00,lisa94@wong.biz,marktorres@yahoo.com,,,Job Title: Chief Technology Officer; Marital Status: Married,$10250.00,2018-07-02,$5000.00
@@ -76,7 +76,7 @@ CB Constituent ID,CB Constituent Type,CB First Name,CB Last Name,CB Company Name
 2136,Person,Regina,Webb,,2020-12-19T00:00:00,brittney12@lee-williamson.org,qkoch@gmail.com,Dr.,,Job Title: Marketing Manager; Marital Status: Married,$200.00,2024-05-15,$100.00
 2581,Person,Lori,Cummings,,2018-11-20T00:00:00,alyssagarcia@gmail.com,steven65@jackson.com,,,Job Title: Chief Technology Officer; Marital Status: Unknown,$10100.00,2024-09-27,$10000.00
 2737,Person,Matthew,Nicholson,,2015-05-28T00:00:00,,,Dr.,"Summer 2016, Major Donor",Marital Status: Unknown,$6000.00,2023-08-08,$5000.00
-2433,Person,Dylan and anna,Adams,,2019-03-20T00:00:00,shelby30@olsen-oliver.com,johnbrown@gmail.com,,"Pitch Perfect, Major Donor, Student Scholar, Board Member",Job Title: Software Engineer; Marital Status: Unknown,$14000.00,2021-12-06,$1000.00
+2433,Person,Dylan and anna,Adams,,2019-03-21T00:00:00,shelby30@olsen-oliver.com,johnbrown@gmail.com,,"Pitch Perfect, Major Donor, Student Scholar, Board Member",Job Title: Software Engineer; Marital Status: Unknown,$14000.00,2021-12-06,$1000.00
 7358,Person,Amanda,James,,2016-05-11T00:00:00,,,,"Summer 2016, Pitch Perfect",Job Title: Graphic Designer; Marital Status: Unknown,$1000.00,2022-01-24,$1000.00
 6197,Person,Angela,Spencer,,2024-11-27T00:00:00,antoniomalone@gmail.com,xjackson@hotmail.com,Mr.,"Major Donor, Tag Test, Summer 2016, Pitch Perfect, Student Scholar",Marital Status: Married,$200.00,2022-11-04,$50.00
 2596,Person,Shelia,Yates,,2015-08-31T00:00:00,,,Mrs.,"Student Scholar, Major Donor 2022",Job Title: Administrative Assistant; Marital Status: Unknown,,,
@@ -85,13 +85,13 @@ CB Constituent ID,CB Constituent Type,CB First Name,CB Last Name,CB Company Name
 4646,Person,Jon,Hunter,,2019-01-30T00:00:00,edward64@hotmail.com,watsonzachary@gonzalez-ochoa.com,Mr.,"Pitch Perfect, Student Scholar, Summer 2016",Job Title: Nurse Practitioner; Marital Status: Single,,,
 4944,Person,Christopher,Schneider,,2023-04-14T00:00:00,gdickerson@gmail.com,,,"Board Member, Summer 2016",Job Title: Marketing Manager; Marital Status: Married,,,
 2382,Person,Mark,Peters,,2018-05-21T00:00:00,,,Mrs.,"Major Donor, Pitch Perfect, Board Member",Job Title: IT Consultant; Marital Status: Single,,,
-6816,Person,Jennifer,Hancock,,2019-11-03T00:00:00,kharris@yahoo.com,calhouneric@yahoo.com,Mr.,"Pitch Perfect, Summer 2016, Major Donor",Job Title: UX Designer; Marital Status: Single,$5000.00,2019-11-04,$5000.00
+6816,Person,Jennifer,Hancock,,2019-11-04T00:00:00,kharris@yahoo.com,calhouneric@yahoo.com,Mr.,"Pitch Perfect, Summer 2016, Major Donor",Job Title: UX Designer; Marital Status: Single,$5000.00,2019-11-04,$5000.00
 6586,Person,Margaret,Moore,,2016-08-01T00:00:00,rubenwelch@yahoo.com,kevinmoore@jackson.com,,,Marital Status: Unknown,$3500.00,2022-12-01,$3000.00
 7022,Person,Melissa,Harrison,,2019-08-30T00:00:00,ujackson@reed-perez.com,mmckinney@yahoo.com,,Major Donor,Job Title: Accountant; Marital Status: Single,$5250.00,2024-09-19,$250.00
 6605,Person,James,Trujillo,,2023-06-28T00:00:00,wesleyjones@gibson.com,jamesharrison@ray-sherman.com,Mrs.,"Summer 2016, Major Donor, Pitch Perfect",Marital Status: Unknown,$1250.00,2021-10-14,$250.00
 4668,Person,Cole,White,,2024-02-28T00:00:00,ereese@hotmail.com,powellrebecca@powell.biz,Dr.,"Pitch Perfect, Tag Test, Major Donor",Job Title: Project Manager; Marital Status: Married,$13000.00,2021-10-07,$3000.00
 1288,Person,Brandon,Mccarty,,2020-12-03T00:00:00,ellendavis@smith.com,john56@stone.org,Ms.,,Marital Status: Single,$700.00,2023-04-01,$100.00
-8361,Person,Sarah,Franco,,2019-04-10T00:00:00,umalone@yahoo.com,daltonmichael@gmail.com,,Summer 2016,Job Title: Accountant; Marital Status: Unknown,$3300.00,2021-05-20,$50.00
+8361,Person,Sarah,Franco,,2019-04-11T00:00:00,umalone@yahoo.com,daltonmichael@gmail.com,Mrs.,Summer 2016,Job Title: Accountant; Marital Status: Unknown,$3300.00,2021-05-20,$50.00
 7369,Person,Dawn,Lindsey,,2024-03-28T00:00:00,jacob66@yahoo.com,snydertanya@smith.biz,Ms.,"Board Member, Pitch Perfect, Major Donor",Job Title: Administrative Assistant; Marital Status: Unknown,$3200.00,2024-04-19,$100.00
 1825,Company,,,"Villanueva, Bowen and Smith",2016-11-07T00:00:00,javierperez@davis.com,jon30@tate.biz,Mr.,Student Scholar,Marital Status: Single,$11500.00,2021-09-10,$10000.00
 1348,Person,Robert & emily,Patton,,2016-12-12T00:00:00,thomassamuel@gmail.com,,,,Marital Status: Single,$3600.00,2023-03-18,$100.00

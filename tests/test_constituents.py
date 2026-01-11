@@ -266,8 +266,8 @@ class TestTransformConstituent:
             tag_mapping
         )
         
-        # Should use fallback (earliest donation - 1 day)
-        assert '2023-01-14' in result['CB Created At']
+        # Should use fallback (earliest donation date)
+        assert '2023-01-15' in result['CB Created At']
     
     def test_no_donations(self, sample_constituent_row):
         emails_by_patron = {}

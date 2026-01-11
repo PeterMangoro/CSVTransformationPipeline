@@ -1,4 +1,4 @@
-from datetime import datetime, timedelta
+from datetime import datetime
 from typing import Dict, List, Optional
 import logging
 
@@ -90,8 +90,7 @@ def get_fallback_created_date(patron_id: str, donations_by_patron: Dict[str, Lis
                 
                 if earliest_date_str:
                     earliest_date = datetime.fromisoformat(earliest_date_str)
-                    created_date = earliest_date - timedelta(days=1)
-                    return created_date.isoformat()
+                    return earliest_date.isoformat()
             except (ValueError, KeyError) as e:
                 logger.warning(f"Error parsing earliest donation date for patron {patron_id}: {e}")
     
